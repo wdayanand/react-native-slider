@@ -186,7 +186,7 @@ export default class Slider extends PureComponent {
     step: 0,
     minimumTrackTintColor: '#3f3f3f',
     maximumTrackTintColor: '#b3b3b3',
-    thumbTintColor: '#343434',
+    thumbTintColor: '#FFF',
     thumbTouchSize: {width: 40, height: 40},
     debugTouchArea: false,
     animationType: 'timing',
